@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#51D051</color>
+    <color name="colorPrimaryDark">#51D051</color>
+    <color name="colorAccent">#51D051</color>
+
+    <color name="defaultBackGroundColor">#EEEEEE</color>
+    <color name="defaultTextColor">#51D051</color>
+    <color name="receivedTextColor">#FF8730</color>
+    <color name="exitBackGroundColor">#89CD62</color>
+    <color name="unEnableColor">#ABABAB</color>
+</resources>
